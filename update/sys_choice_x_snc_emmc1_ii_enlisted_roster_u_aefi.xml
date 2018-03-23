@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_aefi" table="x_snc_emmc1_ii_enlisted_roster" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P1</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>101d6025dbe49700a117b701ef961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:10</sys_updated_on>
+            <value>P1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P2</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>811de025dbe49700a117b701ef96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:13</sys_updated_on>
+            <value>P2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P3</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d91de025dbe49700a117b701ef961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:14</sys_updated_on>
+            <value>P3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P4</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c1da025dbe49700a117b701ef9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:11</sys_updated_on>
+            <value>P4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P5</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>701de025dbe49700a117b701ef961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:13</sys_updated_on>
+            <value>P5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>P6</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>201da025dbe49700a117b701ef9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:12</sys_updated_on>
+            <value>P6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X1</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d81da025dbe49700a117b701ef961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:10</sys_updated_on>
+            <value>X1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X2</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e01da025dbe49700a117b701ef9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:11</sys_updated_on>
+            <value>X2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X3</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>781da025dbe49700a117b701ef9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:12</sys_updated_on>
+            <value>X3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X4</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>451de025dbe49700a117b701ef961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:13</sys_updated_on>
+            <value>X4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>X5</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>141da025dbe49700a117b701ef9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:11</sys_updated_on>
+            <value>X5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XL</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c11de025dbe49700a117b701ef961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:14</sys_updated_on>
+            <value>XL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>XX</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f81de025dbe49700a117b701ef96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:12</sys_updated_on>
+            <value>XX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_aefi</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>YR</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>891de025dbe49700a117b701ef96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:13</sys_updated_on>
+            <value>YR</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_aefi</element>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:10</sys_created_on>
+            <sys_id>dc1d6025dbe49700a117b701ef961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_aefi</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_emmc1_ii_enlisted_roster_u_aefi</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:10</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

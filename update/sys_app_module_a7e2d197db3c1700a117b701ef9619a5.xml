@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="EMMC">730fec65dbe49700a117b701ef961954</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Candidate Selections</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_emmc1_candidate_selection</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_emmc1.candidate_selection_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2018-03-17 13:34:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7e2d197db3c1700a117b701ef9619a5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Candidate Selection Criteria</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+        <sys_update_name>sys_app_module_a7e2d197db3c1700a117b701ef9619a5</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2018-03-17 13:50:09</sys_updated_on>
+        <timeline_page/>
+        <title>Candidate Selection Criteria</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

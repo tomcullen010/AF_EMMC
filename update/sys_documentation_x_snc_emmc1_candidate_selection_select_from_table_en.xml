@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="select_from_table" label="Manpower Enlisted Roster" language="en" table="x_snc_emmc1_candidate_selection">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>select_from_table</element>
+            <help/>
+            <hint/>
+            <label>Manpower Enlisted Roster</label>
+            <language>en</language>
+            <name>x_snc_emmc1_candidate_selection</name>
+            <plural>Manpower Enlisted Rosters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-17 17:41:07</sys_created_on>
+            <sys_id>615b8e57dbbc1700a117b701ef9619a2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Manpower Enlisted Roster</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_emmc1_candidate_selection_select_from_table_en</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-17 18:01:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

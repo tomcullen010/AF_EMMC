@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Class Roster" language="en" table="x_snc_emmc1_ii_class_roster">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Class Roster</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <plural>Class Rosters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:23</sys_created_on>
+            <sys_id>bdfa4d4bdbf01700a117b701ef961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Class Roster</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_emmc1_ii_class_roster__en</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

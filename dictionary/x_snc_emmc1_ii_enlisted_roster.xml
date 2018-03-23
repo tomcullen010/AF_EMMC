@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="u_task_lite" label="Enlisted roster" max_length="40" name="x_snc_emmc1_ii_enlisted_roster" type="collection">
+        <element label="Courses" max_length="4000" name="courses" reference="cmn_schedule_span" reference_qual="schedule=7046a021dbe49700a117b701ef9619d5^EQ" reference_qual_condition="schedule=7046a021dbe49700a117b701ef9619d5^EQ" type="glide_list"/>
+        <element label="Eligible" max_length="40" name="eligible" type="boolean"/>
+        <element default="Import - eligibility criteria was not met." label="Eligible Notes" max_length="400" name="eligible_notes" type="string"/>
+        <element label="Email" max_length="40" name="email" type="string"/>
+        <element choice="1" label="AEFI" max_length="40" name="u_aefi" type="choice">
+            <choice>
+                <element label="P1" sequence="0" value="P1"/>
+                <element label="P2" sequence="0" value="P2"/>
+                <element label="P3" sequence="0" value="P3"/>
+                <element label="P4" sequence="0" value="P4"/>
+                <element label="P5" sequence="0" value="P5"/>
+                <element label="P6" sequence="0" value="P6"/>
+                <element label="X1" sequence="0" value="X1"/>
+                <element label="X2" sequence="0" value="X2"/>
+                <element label="X3" sequence="0" value="X3"/>
+                <element label="X4" sequence="0" value="X4"/>
+                <element label="X5" sequence="0" value="X5"/>
+                <element label="XL" sequence="0" value="XL"/>
+                <element label="XX" sequence="0" value="XX"/>
+                <element label="YR" sequence="0" value="YR"/>
+            </choice>
+        </element>
+        <element label="All Asgmt Availability Codes" max_length="128" name="u_all_asgmt_availability_codes" type="string"/>
+        <element label="CAFSC" max_length="40" name="u_cafsc" type="string"/>
+        <element label="DAFSC" max_length="40" name="u_dafsc" type="string"/>
+        <element label="DAS" max_length="40" name="u_das" type="glide_date"/>
+        <element label="DEROS" max_length="40" name="u_deros" type="string"/>
+        <element label="DOS" max_length="40" name="u_dos" type="glide_date"/>
+        <element label="Duty Loc Desc" max_length="40" name="u_duty_loc_desc" type="string"/>
+        <element label="DUTY TITLE" max_length="40" name="u_duty_title" type="string"/>
+        <element choice="1" label="Grade" max_length="40" name="u_grade" type="choice">
+            <choice>
+                <element label="34" sequence="0" value="34"/>
+                <element label="35" sequence="0" value="35"/>
+                <element label="36" sequence="0" value="36"/>
+                <element label="37" sequence="0" value="37"/>
+                <element label="38" sequence="0" value="38"/>
+                <element label="39" sequence="0" value="39"/>
+            </choice>
+        </element>
+        <element label="Gr Curr DOR" max_length="40" name="u_gr_curr_dor" type="glide_date"/>
+        <element label="HYT" max_length="40" name="u_hyt" type="glide_date"/>
+        <element label="Last EMMC" max_length="40" name="u_last_emmc" type="string"/>
+        <element label="Last EMMC Date" max_length="40" name="u_last_emmc_date" type="glide_date"/>
+        <element choice="1" label="MAJCOM Desc Long" max_length="40" name="u_majcom_desc_long" type="choice">
+            <choice>
+                <element label="AF ELEMENTS EUROPE" sequence="0" value="AF ELEMENTS EUROPE"/>
+                <element label="AF GLOBAL STRIKE COMMAND" sequence="0" value="AF GLOBAL STRIKE COMMAND"/>
+                <element label="AF INSTALLATION AND MISSION SUPPORT" sequence="0" value="AF INSTALLATION AND MISSION SUPPORT"/>
+                <element label="AF OFFICE OF SPECIAL INVESTIGATIONS" sequence="0" value="AF OFFICE OF SPECIAL INVESTIGATIONS"/>
+                <element label="AF OPERATIONS GROUP" sequence="0" value="AF OPERATIONS GROUP"/>
+                <element label="AF SPECIAL OPERATIONS COMMAND (AFSOC)" sequence="0" value="AF SPECIAL OPERATIONS COMMAND (AFSOC)"/>
+                <element label="AF TECHNICAL APPLICATION CENTER" sequence="0" value="AF TECHNICAL APPLICATION CENTER"/>
+                <element label="AFELM DEFENSE INTELLIGENCE AGENCY" sequence="0" value="AFELM DEFENSE INTELLIGENCE AGENCY"/>
+                <element label="AFELM DEFENSE LOGISTIC AGENCY" sequence="0" value="AFELM DEFENSE LOGISTIC AGENCY"/>
+                <element label="AFELM NORAD" sequence="0" value="AFELM NORAD"/>
+                <element label="AFELM US CENTRAL COMMAND" sequence="0" value="AFELM US CENTRAL COMMAND"/>
+                <element label="AFELM US PACIFIC COMMAND" sequence="0" value="AFELM US PACIFIC COMMAND"/>
+                <element label="AFELM US SPECIAL OPERATIONS COMMAND" sequence="0" value="AFELM US SPECIAL OPERATIONS COMMAND"/>
+                <element label="AIR COMBAT COMMAND" sequence="0" value="AIR COMBAT COMMAND"/>
+                <element label="AIR EDUCATION AND TRAINING COMMAND" sequence="0" value="AIR EDUCATION AND TRAINING COMMAND"/>
+                <element label="AIR FORCE DISTRICT OF WASHINGTON" sequence="0" value="AIR FORCE DISTRICT OF WASHINGTON"/>
+                <element label="AIR FORCE MANPOWER ANALYSIS AGENCY" sequence="0" value="AIR FORCE MANPOWER ANALYSIS AGENCY"/>
+                <element label="AIR FORCE MATERIEL COMMAND" sequence="0" value="AIR FORCE MATERIEL COMMAND"/>
+                <element label="AIR FORCE SPACE COMMAND" sequence="0" value="AIR FORCE SPACE COMMAND"/>
+                <element label="AIR MOBILITY COMMAND" sequence="0" value="AIR MOBILITY COMMAND"/>
+                <element label="ANG READINESS CENTER" sequence="0" value="ANG READINESS CENTER"/>
+                <element label="HQ UNITED STATES EUROPEAN COMMAND" sequence="0" value="HQ UNITED STATES EUROPEAN COMMAND"/>
+                <element label="HQ USAF AND SUPPORT ELEMENTS" sequence="0" value="HQ USAF AND SUPPORT ELEMENTS"/>
+                <element label="PACIFIC AIR FORCES" sequence="0" value="PACIFIC AIR FORCES"/>
+                <element label="US AIR FORCE ACADEMY" sequence="0" value="US AIR FORCE ACADEMY"/>
+                <element label="US AIR FORCES, EUROPE" sequence="0" value="US AIR FORCES, EUROPE"/>
+            </choice>
+        </element>
+        <element label="Months Since Last" max_length="40" name="u_months_since_last" type="string"/>
+        <element label="NAME" max_length="32" name="u_name" reference="sys_user" type="reference"/>
+        <element label="Projected PAS" max_length="40" name="u_projected_pas" type="string"/>
+        <element label="Proj Grade" max_length="128" name="u_proj_grade" type="string"/>
+        <element choice="1" label="Reenl Elig Status Desc" max_length="40" name="u_reenl_elig_status_desc" type="choice">
+            <choice>
+                <element label="1ST TERM AIRMAN NOT YET CONSIDERED UNDER SRP" sequence="0" value="1ST TERM AIRMAN NOT YET CONSIDERED UNDER SRP"/>
+                <element label="2ND-TERM OR CAREER AIRMAN SELECTED UNDER SRP" sequence="0" value="2ND-TERM OR CAREER AIRMAN SELECTED UNDER SRP"/>
+                <element label="2ND-TERM/CAREER AMN DECLINED PCS, TDY OR OVERSEAS TOUR" sequence="0" value="2ND-TERM/CAREER AMN DECLINED PCS, TDY OR OVERSEAS TOUR"/>
+                <element label="ANG/USAFR AIRMAN SERVING STAT TOUR--ELIG IAW ANG/USAFR PGM ONLY" sequence="0" value="ANG/USAFR AIRMAN SERVING STAT TOUR--ELIG IAW ANG/USAFR PGM ONLY"/>
+                <element label="CAREER AMN SEL UNDER SRP W/OVER 20 YRS TAFMS" sequence="0" value="CAREER AMN SEL UNDER SRP W/OVER 20 YRS TAFMS"/>
+                <element label="CAREER AMN SEL UNDER SRP WITHIN 13 MONTHS OF 20 YRS TAFMS" sequence="0" value="CAREER AMN SEL UNDER SRP WITHIN 13 MONTHS OF 20 YRS TAFMS"/>
+                <element label="E4 &lt; 16YRS W/O PRJ PROM TO E5 OR E5 &lt; 16YRS W/O PRJ PROM TO E6" sequence="0" value="E4 &lt; 16YRS W/O PRJ PROM TO E5 OR E5 &lt; 16YRS W/O PRJ PROM TO E6"/>
+                <element label="ELIG, SECOND-TERM/CAREER AIRMAN NOT YET CONSIDERED UNDER SRP" sequence="0" value="ELIG, SECOND-TERM/CAREER AIRMAN NOT YET CONSIDERED UNDER SRP"/>
+                <element label="ELIGIBLE TO REENLIST-ELECTED SEPARATION OR DISCHARGE" sequence="0" value="ELIGIBLE TO REENLIST-ELECTED SEPARATION OR DISCHARGE"/>
+                <element label="FIRST TERM AIRMAN SELECTED UNDER SRP" sequence="0" value="FIRST TERM AIRMAN SELECTED UNDER SRP"/>
+                <element label="INELIGIBLE DUE TO HYT AND &lt; 13 MONTHS REMAINING UNTIL DOS" sequence="0" value="INELIGIBLE DUE TO HYT AND &lt; 13 MONTHS REMAINING UNTIL DOS"/>
+                <element label="INELIGIBLE DUE TO HYT AND MORE THAN 13 MONTHS REMAINING UNTIL DOS" sequence="0" value="INELIGIBLE DUE TO HYT AND MORE THAN 13 MONTHS REMAINING UNTIL DOS"/>
+                <element label="MEDICALLY DISQUAL OR PENDING MEB/PEB EVAL" sequence="0" value="MEDICALLY DISQUAL OR PENDING MEB/PEB EVAL"/>
+                <element label="NO AFSC AWARDED WHICH IS COMMENSURATE WITH GRADE" sequence="0" value="NO AFSC AWARDED WHICH IS COMMENSURATE WITH GRADE"/>
+                <element label="RETIREMENT APPLICATION HAS BEEN SUBMITTED OR APPROVED" sequence="0" value="RETIREMENT APPLICATION HAS BEEN SUBMITTED OR APPROVED"/>
+                <element label="SERVING ON CONTROL ROSTER OBSERVATION PERIOD" sequence="0" value="SERVING ON CONTROL ROSTER OBSERVATION PERIOD"/>
+            </choice>
+        </element>
+        <element label="RNLTD" max_length="40" name="u_rnltd" type="string"/>
+        <element label="STRD" max_length="40" name="u_strd" type="glide_date"/>
+        <element label="TAFMSD" max_length="40" name="u_tafmsd" type="glide_date"/>
+        <element label="Unit Desc" max_length="40" name="u_unit_desc" type="string"/>
+        <index name="index">
+            <element name="u_name"/>
+        </index>
+    </element>
+</database>

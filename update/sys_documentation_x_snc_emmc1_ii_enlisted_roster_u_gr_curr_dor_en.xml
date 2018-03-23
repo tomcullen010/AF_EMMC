@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_gr_curr_dor" label="Gr Curr DOR" language="en" table="x_snc_emmc1_ii_enlisted_roster">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_gr_curr_dor</element>
+            <help/>
+            <hint/>
+            <label>Gr Curr DOR</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_enlisted_roster</name>
+            <plural>Gr Curr DORs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-02-27 14:04:04</sys_created_on>
+            <sys_id>fe0d6025dbe49700a117b701ef961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Gr Curr DOR</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_emmc1_ii_enlisted_roster_u_gr_curr_dor_en</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-02-27 14:04:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Candidate Selection" max_length="40" name="x_snc_emmc1_candidate_selection" sizeclass="2" type="collection">
+        <element choice="3" dependent="select_from_table" dependent_on_field="select_from_table" label="Conditions" max_length="4000" name="conditions" type="conditions" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element label="EMMC Course" mandatory="true" max_length="32" name="emmc_course" reference="cmn_schedule_span" reference_qual="schedule=7046a021dbe49700a117b701ef9619d5^EQ" reference_qual_condition="schedule=7046a021dbe49700a117b701ef9619d5^EQ" type="reference"/>
+        <element choice="3" default="x_snc_emmc1_ii_enlisted_roster" dependent="select_from_table" dependent_on_field="select_from_table" label="Manpower Enlisted Roster" max_length="40" name="select_from_table" type="choice" use_dependent_field="true">
+            <choice>
+                <element label="Manpower Enlisted Roster" sequence="1" value="x_snc_emmc1_ii_enlisted_roster"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Eligible Candidates" max_length="40" name="x_snc_emmc1_eligible_candidates" type="collection">
+        <element label="Accepted" max_length="40" name="accepted" type="boolean"/>
+        <element label="Approved" max_length="40" name="approved" type="boolean"/>
+        <element label="Enlisted Candidate" max_length="32" name="enlisted_candidate" read_only="true" reference="x_snc_emmc1_ii_enlisted_roster" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Related Course" max_length="32" name="related_course" read_only="true" reference="cmn_schedule_span" type="reference"/>
+        <element label="Related Selection" max_length="32" name="related_selection" read_only="true" reference="x_snc_emmc1_candidate_selection" type="reference"/>
+        <index name="index">
+            <element name="related_course"/>
+        </index>
+        <index name="index2">
+            <element name="enlisted_candidate"/>
+        </index>
+        <index name="index3">
+            <element name="related_selection"/>
+        </index>
+    </element>
+</database>

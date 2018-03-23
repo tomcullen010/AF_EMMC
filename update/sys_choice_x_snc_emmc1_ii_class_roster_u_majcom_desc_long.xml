@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_majcom_desc_long" table="x_snc_emmc1_ii_class_roster" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF ELEMENTS EUROPE</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80bcd4bdbf01700a117b701ef961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:34</sys_updated_on>
+            <value>AF ELEMENTS EUROPE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF GLOBAL STRIKE COMMAND</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc0bcd4bdbf01700a117b701ef9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:36</sys_updated_on>
+            <value>AF GLOBAL STRIKE COMMAND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF INSTALLATION AND MISSION SUPPORT</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>090b018bdbf01700a117b701ef961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:37</sys_updated_on>
+            <value>AF INSTALLATION AND MISSION SUPPORT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AF SPECIAL OPERATIONS COMMAND (AFSOC)</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a80bcd4bdbf01700a117b701ef9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:35</sys_updated_on>
+            <value>AF SPECIAL OPERATIONS COMMAND (AFSOC)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AFELM DEFENSE LOGISTIC AGENCY</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c50b018bdbf01700a117b701ef961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:37</sys_updated_on>
+            <value>AFELM DEFENSE LOGISTIC AGENCY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AFELM NORAD</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>550b018bdbf01700a117b701ef961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:38</sys_updated_on>
+            <value>AFELM NORAD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIR COMBAT COMMAND</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ffa4d4bdbf01700a117b701ef961922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:32</sys_updated_on>
+            <value>AIR COMBAT COMMAND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIR EDUCATION AND TRAINING COMMAND</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>890bcd4bdbf01700a117b701ef9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:36</sys_updated_on>
+            <value>AIR EDUCATION AND TRAINING COMMAND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIR FORCE DISTRICT OF WASHINGTON</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>050b018bdbf01700a117b701ef96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:37</sys_updated_on>
+            <value>AIR FORCE DISTRICT OF WASHINGTON</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIR FORCE MANPOWER ANALYSIS AGENCY</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c40bcd4bdbf01700a117b701ef96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:33</sys_updated_on>
+            <value>AIR FORCE MANPOWER ANALYSIS AGENCY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AIR MOBILITY COMMAND</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>840bcd4bdbf01700a117b701ef961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:33</sys_updated_on>
+            <value>AIR MOBILITY COMMAND</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ANG READINESS CENTER</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>500bcd4bdbf01700a117b701ef96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:34</sys_updated_on>
+            <value>ANG READINESS CENTER</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HQ USAF AND SUPPORT ELEMENTS</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc0bcd4bdbf01700a117b701ef96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:32</sys_updated_on>
+            <value>HQ USAF AND SUPPORT ELEMENTS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PACIFIC AIR FORCES</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>100bcd4bdbf01700a117b701ef96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:34</sys_updated_on>
+            <value>PACIFIC AIR FORCES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_majcom_desc_long</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>US AIR FORCES, EUROPE</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>940bcd4bdbf01700a117b701ef961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:33</sys_updated_on>
+            <value>US AIR FORCES, EUROPE</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_majcom_desc_long</element>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:32</sys_created_on>
+            <sys_id>bffa4d4bdbf01700a117b701ef961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_majcom_desc_long</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_emmc1_ii_class_roster_u_majcom_desc_long</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

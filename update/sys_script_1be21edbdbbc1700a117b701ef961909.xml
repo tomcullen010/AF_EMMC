@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>true</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_snc_emmc1_candidate_selection</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message><![CDATA[<p><span style="font-size: 16px;">Eligible Candidate list created</span></p>]]></message>
+        <name>Select Eligible Candidates</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Get Requested Employees
+	var gr = new GlideRecord('x_snc_emmc1_ii_enlisted_roster');
+	gr.addEncodedQuery(current.conditions);
+	gr.query();
+	while(gr.next()) {
+		var gep = new GlideRecord('x_snc_emmc1_eligible_candidates');
+		gep.initialize();
+		gep.related_course = current.emmc_course;
+		gep.enlisted_candidate = gr.sys_id;
+		gep.related_selection = current.sys_id;
+		gep.insert();
+	}
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>tom.cullen</sys_created_by>
+        <sys_created_on>2018-03-17 18:17:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1be21edbdbbc1700a117b701ef961909</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Select Eligible Candidates</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+        <sys_update_name>sys_script_1be21edbdbbc1700a117b701ef961909</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2018-03-19 12:22:32</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=1be21edbdbbc1700a117b701ef961909"/>
+</record_update>

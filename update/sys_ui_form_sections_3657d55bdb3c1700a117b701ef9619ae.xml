@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3657d55bdb3c1700a117b701ef9619ae" sys_domain="global" table="x_snc_emmc1_candidate_selection" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-17 13:54:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fa57d55bdb3c1700a117b701ef9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_emmc1_candidate_selection" name="x_snc_emmc1_candidate_selection" sys_domain="global" view="Default view">3657d55bdb3c1700a117b701ef9619ae</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_emmc1_candidate_selection" sys_domain="global" view="Default view">df46191bdb3c1700a117b701ef9619e9</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-17 13:54:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-17 13:54:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f657d55bdb3c1700a117b701ef9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_emmc1_candidate_selection" name="x_snc_emmc1_candidate_selection" sys_domain="global" view="Default view">3657d55bdb3c1700a117b701ef9619ae</sys_ui_form>
+            <sys_ui_section caption="Candidate Selection Criteria" display_value="Candidate Selection Criteria" name="x_snc_emmc1_candidate_selection" sys_domain="global" view="Default view">f657d55bdb3c1700a117b701ef9619ad</sys_ui_section>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-17 13:54:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_emmc1_candidate_selection</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-17 13:54:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3657d55bdb3c1700a117b701ef9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_emmc1_candidate_selection</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3657d55bdb3c1700a117b701ef9619ae</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-17 13:54:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

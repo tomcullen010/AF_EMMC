@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_reenl_elig_status_desc" table="x_snc_emmc1_ii_class_roster" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1ST TERM AIRMAN NOT YET CONSIDERED UNDER SRP</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>550b018bdbf01700a117b701ef96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:38</sys_updated_on>
+            <value>1ST TERM AIRMAN NOT YET CONSIDERED UNDER SRP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2ND-TERM OR CAREER AIRMAN SELECTED UNDER SRP</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c0bcd4bdbf01700a117b701ef961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:33</sys_updated_on>
+            <value>2ND-TERM OR CAREER AIRMAN SELECTED UNDER SRP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ANG/USAFR AIRMAN SERVING STAT TOUR--ELIG IAW ANG/USAFR PGM ONLY</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a40bcd4bdbf01700a117b701ef96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:34</sys_updated_on>
+            <value>ANG/USAFR AIRMAN SERVING STAT TOUR--ELIG IAW ANG/USAFR PGM ONLY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CAREER AMN SEL UNDER SRP WITHIN 13 MONTHS OF 20 YRS TAFMS</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc0bcd4bdbf01700a117b701ef961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:32</sys_updated_on>
+            <value>CAREER AMN SEL UNDER SRP WITHIN 13 MONTHS OF 20 YRS TAFMS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ELIG, SECOND-TERM/CAREER AIRMAN NOT YET CONSIDERED UNDER SRP</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>440bcd4bdbf01700a117b701ef961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:32</sys_updated_on>
+            <value>ELIG, SECOND-TERM/CAREER AIRMAN NOT YET CONSIDERED UNDER SRP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ELIGIBLE TO REENLIST-ELECTED SEPARATION OR DISCHARGE</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>700bcd4bdbf01700a117b701ef9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:36</sys_updated_on>
+            <value>ELIGIBLE TO REENLIST-ELECTED SEPARATION OR DISCHARGE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FIRST TERM AIRMAN SELECTED UNDER SRP</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f40bcd4bdbf01700a117b701ef9619ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:36</sys_updated_on>
+            <value>FIRST TERM AIRMAN SELECTED UNDER SRP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>INELIGIBLE DUE TO HYT AND &lt; 13 MONTHS REMAINING UNTIL DOS</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>410b018bdbf01700a117b701ef961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:37</sys_updated_on>
+            <value>INELIGIBLE DUE TO HYT AND &lt; 13 MONTHS REMAINING UNTIL DOS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>INELIGIBLE DUE TO HYT AND MORE THAN 13 MONTHS REMAINING UNTIL DOS</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>280bcd4bdbf01700a117b701ef9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:35</sys_updated_on>
+            <value>INELIGIBLE DUE TO HYT AND MORE THAN 13 MONTHS REMAINING UNTIL DOS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MEDICALLY DISQUAL OR PENDING MEB/PEB EVAL</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>100bcd4bdbf01700a117b701ef961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:34</sys_updated_on>
+            <value>MEDICALLY DISQUAL OR PENDING MEB/PEB EVAL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_reenl_elig_status_desc</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RETIREMENT APPLICATION HAS BEEN SUBMITTED OR APPROVED</label>
+            <language>en</language>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sequence>0</sequence>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>040bcd4bdbf01700a117b701ef96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:33</sys_updated_on>
+            <value>RETIREMENT APPLICATION HAS BEEN SUBMITTED OR APPROVED</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_reenl_elig_status_desc</element>
+            <name>x_snc_emmc1_ii_class_roster</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tom.cullen</sys_created_by>
+            <sys_created_on>2018-03-16 18:21:32</sys_created_on>
+            <sys_id>800bcd4bdbf01700a117b701ef96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_reenl_elig_status_desc</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_emmc1_ii_class_roster_u_reenl_elig_status_desc</sys_update_name>
+            <sys_updated_by>tom.cullen</sys_updated_by>
+            <sys_updated_on>2018-03-16 18:21:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

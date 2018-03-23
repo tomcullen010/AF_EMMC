@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Class Roster" max_length="40" name="x_snc_emmc1_ii_class_roster" type="collection">
+        <element label="Alternate" max_length="40" name="alternate" type="boolean"/>
+        <element label="Registered Candidate" max_length="32" name="registered_candidate" reference="x_snc_emmc1_ii_enlisted_roster" type="reference"/>
+        <element label="Related Course" max_length="32" name="related_course" reference="cmn_schedule_span" type="reference"/>
+        <index name="index">
+            <element name="related_course"/>
+        </index>
+        <index name="index2">
+            <element name="registered_candidate"/>
+        </index>
+    </element>
+</database>
