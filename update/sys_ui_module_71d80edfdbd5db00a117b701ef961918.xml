@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="EMMC">7dd80edfdbd5db00a117b701ef961915</application>
+        <filter/>
+        <name>Feedbacks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_emmc1.feedback_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>adam.moskof</sys_created_by>
+        <sys_created_on>2018-04-11 14:01:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71d80edfdbd5db00a117b701ef961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Feedbacks</sys_name>
+        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+        <sys_update_name>sys_ui_module_71d80edfdbd5db00a117b701ef961918</sys_update_name>
+        <sys_updated_by>adam.moskof</sys_updated_by>
+        <sys_updated_on>2018-04-11 14:01:35</sys_updated_on>
+        <table>x_snc_emmc1_feedback</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

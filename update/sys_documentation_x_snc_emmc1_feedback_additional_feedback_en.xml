@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="additional_feedback" label="Additional Feedback" language="en" table="x_snc_emmc1_feedback">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>additional_feedback</element>
+            <help/>
+            <hint/>
+            <label>Additional Feedback</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <plural>Additional Feedbacks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:13:05</sys_created_on>
+            <sys_id>0e7bc253db19db00a117b701ef96190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional Feedback</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_emmc1_feedback_additional_feedback_en</sys_update_name>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:13:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

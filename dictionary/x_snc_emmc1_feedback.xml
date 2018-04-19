@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Feedback" max_length="40" name="x_snc_emmc1_feedback" type="collection">
+        <element label="Additional Feedback" max_length="1000" name="additional_feedback" type="string"/>
+        <element choice="1" label="Component" max_length="20" name="component" type="choice">
+            <choice>
+                <element label="Session 1" sequence="1" value="Session 1"/>
+                <element label="Session 2" sequence="2" value="Session 2"/>
+                <element label="Session 3" sequence="3" value="Session 3"/>
+                <element label="Ease of Use" sequence="4" value="Ease of Use"/>
+                <element label="Training" sequence="5" value="Training"/>
+                <element label="Overall Experience" sequence="6" value="Overall Experience"/>
+            </choice>
+        </element>
+        <element choice="1" label="Rating" max_length="20" name="rating" type="choice">
+            <choice>
+                <element label="1 - poor" value="1"/>
+                <element label="2 - satisfactory" value="2"/>
+                <element label="3 - good" value="3"/>
+                <element label="4 - very good" value="4"/>
+                <element label="5 - excellent" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>

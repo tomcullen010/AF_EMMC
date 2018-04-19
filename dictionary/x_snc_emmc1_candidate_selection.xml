@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Candidate Selection" max_length="40" name="x_snc_emmc1_candidate_selection" sizeclass="2" type="collection">
+    <element extends="task" label="Candidate Selection" max_length="40" name="x_snc_emmc1_candidate_selection" sizeclass="5" type="collection">
         <element choice="3" dependent="select_from_table" dependent_on_field="select_from_table" label="Conditions" max_length="4000" name="conditions" type="conditions" use_dependent_field="true">
             <choice/>
         </element>

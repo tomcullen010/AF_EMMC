@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-04-19 13:41:13">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>adam.moskof</sys_created_by>
+        <sys_created_on>2018-04-11 14:25:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>024e8ad3db19db00a117b701ef961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+        <sys_update_name>sys_portal_page_024e8ad3db19db00a117b701ef961986</sys_update_name>
+        <sys_updated_by>adam.moskof</sys_updated_by>
+        <sys_updated_on>2018-04-11 14:25:22</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_13</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">024e8ad3db19db00a117b701ef961986</page>
+                <summary>All Feedback</summary>
+                <sys_created_by>adam.moskof</sys_created_by>
+                <sys_created_on>2018-04-11 16:37:40</sys_created_on>
+                <sys_id>009ce617db59db00a117b701ef96190f</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>adam.moskof</sys_updated_by>
+                <sys_updated_on>2018-04-11 16:37:40</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">c09ce617db59db00a117b701ef96190d</grid_canvas>
+                        <height>18</height>
+                        <portal_widget display_value="Created 2018-04-11 12:37:40">009ce617db59db00a117b701ef96190f</portal_widget>
+                        <posx>0</posx>
+                        <posy>21</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>909ce617db59db00a117b701ef961911</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name>c09ce617db59db00a117b701ef96190d</sys_name>
+                        <sys_package display_value="APIDS1" source="x_snc_apids1">642be548db1813003e38595fdf961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="APIDS1">642be548db1813003e38595fdf961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_909ce617db59db00a117b701ef961911</sys_update_name>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:54:19</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:40">009ce617db59db00a117b701ef96190f</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>189ce617db59db00a117b701ef961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>51df0a17db19db00a117b701ef96195e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:40">009ce617db59db00a117b701ef96190f</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>549ce617db59db00a117b701ef961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:40">009ce617db59db00a117b701ef96190f</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>909ce617db59db00a117b701ef961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>All Feedback</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:40">009ce617db59db00a117b701ef96190f</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>9c9ce617db59db00a117b701ef961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:40">009ce617db59db00a117b701ef96190f</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>c89ce617db59db00a117b701ef96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">024e8ad3db19db00a117b701ef961986</page>
+                <summary>Let Us Known What You Think</summary>
+                <sys_created_by>adam.moskof</sys_created_by>
+                <sys_created_on>2018-04-11 14:28:23</sys_created_on>
+                <sys_id>16feced3db19db00a117b701ef961963</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>adam.moskof</sys_updated_by>
+                <sys_updated_on>2018-04-11 14:29:40</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">ca4e8ad3db19db00a117b701ef961986</grid_canvas>
+                        <height>11</height>
+                        <portal_widget display_value="Created 2018-04-11 10:28:23">16feced3db19db00a117b701ef961963</portal_widget>
+                        <posx>6</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:28:23</sys_created_on>
+                        <sys_id>dafeced3db19db00a117b701ef961964</sys_id>
+                        <sys_mod_count>8</sys_mod_count>
+                        <sys_name>ca4e8ad3db19db00a117b701ef961986</sys_name>
+                        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_dafeced3db19db00a117b701ef961964</sys_update_name>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:36:07</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-11 10:28:23">16feced3db19db00a117b701ef961963</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:28:23</sys_created_on>
+                        <sys_id>12feced3db19db00a117b701ef961964</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:29:40</sys_updated_on>
+                        <value>Let Us Known What You Think</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-11 10:28:23">16feced3db19db00a117b701ef961963</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:28:23</sys_created_on>
+                        <sys_id>1afeced3db19db00a117b701ef961963</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:29:40</sys_updated_on>
+                        <value>c3feced3db19db00a117b701ef961969</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-11 10:28:23">16feced3db19db00a117b701ef961963</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:28:23</sys_created_on>
+                        <sys_id>5efeced3db19db00a117b701ef961963</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:28:23</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-04-11 10:28:23">16feced3db19db00a117b701ef961963</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:28:23</sys_created_on>
+                        <sys_id>96feced3db19db00a117b701ef961964</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:29:40</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">024e8ad3db19db00a117b701ef961986</page>
+                <summary>All Feedback</summary>
+                <sys_created_by>adam.moskof</sys_created_by>
+                <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                <sys_id>859f4617db19db00a117b701ef96192d</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>adam.moskof</sys_updated_by>
+                <sys_updated_on>2018-04-11 14:32:09</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">ca4e8ad3db19db00a117b701ef961986</grid_canvas>
+                        <height>18</height>
+                        <portal_widget display_value="Created 2018-04-11 10:31:02">859f4617db19db00a117b701ef96192d</portal_widget>
+                        <posx>0</posx>
+                        <posy>11</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                        <sys_id>419f4617db19db00a117b701ef96192f</sys_id>
+                        <sys_mod_count>7</sys_mod_count>
+                        <sys_name>ca4e8ad3db19db00a117b701ef961986</sys_name>
+                        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_419f4617db19db00a117b701ef96192f</sys_update_name>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:36:11</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-11 10:31:02">859f4617db19db00a117b701ef96192d</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                        <sys_id>019f4617db19db00a117b701ef96192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:31:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-11 10:31:02">859f4617db19db00a117b701ef96192d</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                        <sys_id>499f4617db19db00a117b701ef96192e</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:32:09</sys_updated_on>
+                        <value>All Feedback</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-04-11 10:31:02">859f4617db19db00a117b701ef96192d</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                        <sys_id>859f4617db19db00a117b701ef96192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:31:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-11 10:31:02">859f4617db19db00a117b701ef96192d</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                        <sys_id>899f4617db19db00a117b701ef96192d</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:32:09</sys_updated_on>
+                        <value>51df0a17db19db00a117b701ef96195e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-04-11 10:31:02">859f4617db19db00a117b701ef96192d</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:31:02</sys_created_on>
+                        <sys_id>c19f4617db19db00a117b701ef96192e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:31:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">024e8ad3db19db00a117b701ef961986</page>
+                <summary>Training Session Information EMMC</summary>
+                <sys_created_by>adam.moskof</sys_created_by>
+                <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                <sys_id>9c9ce617db59db00a117b701ef961912</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>adam.moskof</sys_updated_by>
+                <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">c09ce617db59db00a117b701ef96190d</grid_canvas>
+                        <height>11</height>
+                        <portal_widget display_value="Created 2018-04-11 12:37:41">9c9ce617db59db00a117b701ef961912</portal_widget>
+                        <posx>0</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>909ce617db59db00a117b701ef961914</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name>c09ce617db59db00a117b701ef96190d</sys_name>
+                        <sys_package display_value="APIDS1" source="x_snc_apids1">642be548db1813003e38595fdf961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="APIDS1">642be548db1813003e38595fdf961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_909ce617db59db00a117b701ef961914</sys_update_name>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:54:19</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:41">9c9ce617db59db00a117b701ef961912</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>589ce617db59db00a117b701ef961913</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>db40de17db19db00a117b701ef96197b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:41">9c9ce617db59db00a117b701ef961912</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>949ce617db59db00a117b701ef961913</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:41">9c9ce617db59db00a117b701ef961912</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>9c9ce617db59db00a117b701ef961913</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>Training Session Information EMMC</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-11 12:37:41">9c9ce617db59db00a117b701ef961912</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 16:37:41</sys_created_on>
+                        <sys_id>d09ce617db59db00a117b701ef961913</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 16:37:41</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">024e8ad3db19db00a117b701ef961986</page>
+                <summary>Training Session Information EMMC</summary>
+                <sys_created_by>adam.moskof</sys_created_by>
+                <sys_created_on>2018-04-11 14:32:40</sys_created_on>
+                <sys_id>c1ff0e17db19db00a117b701ef96194c</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>adam.moskof</sys_updated_by>
+                <sys_updated_on>2018-04-11 14:34:57</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">ca4e8ad3db19db00a117b701ef961986</grid_canvas>
+                        <height>11</height>
+                        <portal_widget display_value="Created 2018-04-11 10:32:40">c1ff0e17db19db00a117b701ef96194c</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:32:40</sys_created_on>
+                        <sys_id>89ff0e17db19db00a117b701ef96194d</sys_id>
+                        <sys_mod_count>6</sys_mod_count>
+                        <sys_name>ca4e8ad3db19db00a117b701ef961986</sys_name>
+                        <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_89ff0e17db19db00a117b701ef96194d</sys_update_name>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:36:11</sys_updated_on>
+                        <width>6</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-04-11 10:32:40">c1ff0e17db19db00a117b701ef96194c</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:32:40</sys_created_on>
+                        <sys_id>0dff0e17db19db00a117b701ef96194c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:32:40</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2018-04-11 10:32:40">c1ff0e17db19db00a117b701ef96194c</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:32:40</sys_created_on>
+                        <sys_id>45ff0e17db19db00a117b701ef96194d</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:34:57</sys_updated_on>
+                        <value>content_block_static</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-04-11 10:32:40">c1ff0e17db19db00a117b701ef96194c</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:32:40</sys_created_on>
+                        <sys_id>c5ff0e17db19db00a117b701ef96194c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:34:57</sys_updated_on>
+                        <value>db40de17db19db00a117b701ef96197b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-04-11 10:32:40">c1ff0e17db19db00a117b701ef96194c</portal_section>
+                        <sys_created_by>adam.moskof</sys_created_by>
+                        <sys_created_on>2018-04-11 14:32:40</sys_created_on>
+                        <sys_id>cdff0e17db19db00a117b701ef96194c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>adam.moskof</sys_updated_by>
+                        <sys_updated_on>2018-04-11 14:34:57</sys_updated_on>
+                        <value>Training Session Information EMMC</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

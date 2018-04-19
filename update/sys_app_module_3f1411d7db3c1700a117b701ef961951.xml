@@ -19,14 +19,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_snc_emmc1.user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>tom.cullen</sys_created_by>
         <sys_created_on>2018-03-17 13:41:05</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3f1411d7db3c1700a117b701ef961951</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Candidate Selection</sys_name>
         <sys_overrides/>
         <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
         <sys_update_name>sys_app_module_3f1411d7db3c1700a117b701ef961951</sys_update_name>
         <sys_updated_by>tom.cullen</sys_updated_by>
-        <sys_updated_on>2018-03-17 13:41:05</sys_updated_on>
+        <sys_updated_on>2018-04-10 21:04:52</sys_updated_on>
         <timeline_page/>
         <title>Candidate Selection</title>
         <uncancelable>false</uncancelable>

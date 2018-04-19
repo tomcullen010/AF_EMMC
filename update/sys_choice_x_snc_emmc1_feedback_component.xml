@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="component" table="x_snc_emmc1_feedback" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>component</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Session 1</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <sequence>1</sequence>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:09:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c47a0e13db19db00a117b701ef961905</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:11:34</sys_updated_on>
+            <value>Session 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>component</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Session 2</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <sequence>2</sequence>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1bac613db19db00a117b701ef9619fc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:11:38</sys_updated_on>
+            <value>Session 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>component</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Session 3</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <sequence>3</sequence>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17baca13db19db00a117b701ef9619e4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:11:41</sys_updated_on>
+            <value>Session 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>component</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ease of Use</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <sequence>4</sequence>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:10:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7caca13db19db00a117b701ef9619e8</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:11:47</sys_updated_on>
+            <value>Ease of Use</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>component</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Training</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <sequence>5</sequence>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:10:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69da0e13db19db00a117b701ef961924</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:11:52</sys_updated_on>
+            <value>Training</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>component</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Overall Experience</label>
+            <language>en</language>
+            <name>x_snc_emmc1_feedback</name>
+            <sequence>6</sequence>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:10:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aaea8e13db19db00a117b701ef961920</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:11:55</sys_updated_on>
+            <value>Overall Experience</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>component</element>
+            <name>x_snc_emmc1_feedback</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>adam.moskof</sys_created_by>
+            <sys_created_on>2018-04-11 14:09:35</sys_created_on>
+            <sys_id>feaac613db19db00a117b701ef9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>component</sys_name>
+            <sys_package display_value="EMMC1" source="x_snc_emmc1">10d5e8eddba49700a117b701ef96194a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EMMC1">10d5e8eddba49700a117b701ef96194a</sys_scope>
+            <sys_update_name>sys_choice_x_snc_emmc1_feedback_component</sys_update_name>
+            <sys_updated_by>adam.moskof</sys_updated_by>
+            <sys_updated_on>2018-04-11 14:09:35</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
